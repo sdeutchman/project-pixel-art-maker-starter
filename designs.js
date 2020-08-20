@@ -25,3 +25,4 @@ function formSubmission() {
 		sizePicker.submit(function (event) {
 		})
 	});
+}
